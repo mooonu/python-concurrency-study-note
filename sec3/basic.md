@@ -21,3 +21,10 @@
 		- 프로세스가 오류로 종료된다면, 모든 스레드 또한 종료된다.
 	- 싱글 스레드는 하나의 프로세스가 오직 하나의 작업(실행 흐름)을 가지고 처리하는 방식
 	- 멀티 스레드는 하나의 프로세스 내에서 여러 개의 스레드가 동시에 실행되는 방식
+
+---
+
+## HTTP, API
+- [HTTP](https://developer.mozilla.org/ko/docs/Web/HTTP)
+- [API](https://www.redhat.com/ko/topics/api/what-are-application-programming-interfaces)
+
